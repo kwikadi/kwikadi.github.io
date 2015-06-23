@@ -3,28 +3,19 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+This blog is an attempt at semi-decent writing by, well, me. My name is Aditya Kumar, and I am currently pursuing a Bachelor's degree in technology (aka B.Tech) from Jamia Millia Islamia, a university based in New Delhi. My stream is Computer Engineering, and so I keep trying to code random stuff in an effort to get better. The operative word here is *trying*, of course. I seem to run into more road blocks than your average programmer, for whatever reason. It probably isn't due to bad luck.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+The site is called fuzzy bugfix because... it was the only cool sounding name I could come up with. GitHub was a huge help in this, of course (I mashed two new repo name suggestions to get to fuzzy bugfix). Point is, there is nothing to the name except its cool sounding property.
 
-There are currently two themes built on Poole:
+Anyway, you can find me on:
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+* [Twitter](http://twitter.com/k_ditya)
+* [Facebook](http://facebook.com/adik007)
+* [Github](https://github.com/kwikadi)
+* [My Site](http://adi.jdev.in)
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+If the My Site link doesn't work, its because one of my closest friends is a lazy bum. (Long Story)
 
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+I would put up a FAQ here, except there is no question that people ask me frequently (um, maybe 'Dude, can you stop disturbing the whole class in the middle of lectures?' to which my answer is that I try really hard to remain quiet.)
 
 Thanks for reading!
