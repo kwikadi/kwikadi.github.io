@@ -9,8 +9,8 @@ relative_permalinks: true
 # Setup
 title:            fuzzy bugfix
 tagline:          'Random Ramblings'
-description:      'The random thoughts of an aspiring programmer who feels suspiciously out of place.'
-url:              http://hyde.getpoole.com
+description:      'The random thoughts of an aspiring programmer.'
+url:              http://kwikadi.github.io
 baseurl:          /
 
 author:
@@ -20,7 +20,3 @@ author:
 paginate:         5
 
 # Custom vars
-version:          2.1.0
-
-github:
-  repo:           https://github.com/poole/hyde
