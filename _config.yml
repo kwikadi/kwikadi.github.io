@@ -11,7 +11,6 @@ title:            fuzzy bugfix
 tagline:          'Random Ramblings'
 description:      'The random thoughts of an aspiring programmer.'
 url:              http://kwikadi.github.io
-baseurl:          /
 
 author:
   name:           'Aditya Kumar'
