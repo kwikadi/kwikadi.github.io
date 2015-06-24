@@ -28,3 +28,5 @@ Now all that remains it tweaking the page till I'm satisfied, and figuring out h
 Poole has a bunch of things that are configurable, so the first part should be easy to do. The second part, I'm hoping, will be smooth sailing like the rest of this blog.
 
 And with this, I come to a rather abrupt end to this blogpost. Thanks for reading!
+
+PS: Who would've thought. I got stuck at hosting this on gh-pages. Fairly easy fix, though, so that was nice. Shoutout to [Shivam Rana](https://github.com/trigonaminima) for helping me out.
